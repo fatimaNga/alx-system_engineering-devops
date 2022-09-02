@@ -1,1 +1,1 @@
-move the file
+8.Delete the file betty.
